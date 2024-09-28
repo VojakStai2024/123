@@ -1,0 +1,76 @@
+#positionBlock{
+background-color: none;
+color: white;
+font-size: 40px;
+width: 2000px;
+height: 30px;
+text-align: left;
+position: relative;
+right: -100px;
+top: -400px;
+}
+
+.t1 {
+ background-color: none;
+color: white;
+padding: 30px 0px;
+font-size: 100px;
+width: 2000px;
+height: 30px;
+text-align: left;
+position: relative;
+right: -100px;
+top: -400px;
+}
+
+.t2 {
+ background-color: none;
+color: white;
+padding: 60px 0px;
+font-size: 40px;
+width: 2000px;
+height: 30px;
+text-align: left;
+position: relative;
+right: -100px;
+top: -400px;
+}
+
+.t3 {
+ background-color: none;
+color: white;
+padding: 30px 0px;
+font-size: 100px;
+width: 2000px;
+height: 30px;
+text-align: left;
+position: relative;
+right: -100px;
+top: -300px;
+}
+
+.animated-button {
+text-align: center;
+  background-color: white;
+  color: black;
+  padding: 10px 0px;
+  text-decoration: none;
+  display: inline-block;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-size: 30px;
+width: 250px;
+height: 70px;
+position: relative;
+right: -100px;
+top: -500px;
+border-radius: 80px 80px 80px 80px;
+-moz-border-radius: 80px 80px 80px 80px;
+-webkit-border-radius: 80px 80px 80px 80px;
+border: 0px solid #000000;
+}
+
+.animated-button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  transform: scale(1.1);
+}
